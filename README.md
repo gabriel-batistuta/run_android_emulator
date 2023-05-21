@@ -25,5 +25,5 @@ nano core/list_devices.sh
 sudo ./main.sh
 
 # for open the eumlator:
-$run_android
+emulator
 ```
