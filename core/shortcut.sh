@@ -1,4 +1,4 @@
-run_android= "function run_android() {
+run_android= "function emulator() {
     cd ~/Android/Sdk/tools && ./emulator -avd @[ YOUR_DEVICE ]
     cd
 }
